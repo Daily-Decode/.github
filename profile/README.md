@@ -1,25 +1,13 @@
-# Welcome to Daily Decode
-
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Daily Decode Logo" width="150">
 </p>
 
+
 <p align="center">
+  <span style="font-size:20px;font-weight:400;">Daily Decode</span><br/>
   <strong>Decode the world, daily.</strong>
 </p>
 
----
-
-## 🌟 What We Do
-
-Daily Decode is a community-driven initiative aimed at exploring the depths of technology, development, and creativity. Whether you’re just starting or you’re a seasoned expert, we provide resources, projects, and challenges to keep your skills sharp.
-
-### Key Features
-- **Open Collaboration**: Work together with developers worldwide.
-- **Daily Inspiration**: New projects and challenges to tackle every day.
-- **Wiki**: Guides and tools for continuous learning.
-
----
 
 ## 🚀 How to Get Started
 
@@ -39,7 +27,7 @@ We believe in the power of community. Share your thoughts, ask questions, and co
 
 Check out our:
 - [Project Directory](https://github.com/orgs/Daily-Decode/repositories)
-- [Wiki](https://github.com/Daily-Decode/wiki)
+- [Wiki](https://github.com/Daily-Decode/.github/wiki)
 - [Contribution Guide](../CONTRIBUTING.md)
 
 ---
