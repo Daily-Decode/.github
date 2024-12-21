@@ -1,37 +1,34 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Daily Decode Logo" width="150">
+  <img src="../images/logo_without_bg.png" alt="Daily Decode Logo" width="66">
 </p>
 
-
 <p align="center">
-  <span style="font-size:20px;font-weight:400;">Daily Decode</span><br/>
+  <span style="font-size:20px;font-weight:400;"> 
+    <strong>Daily Decode</strong>
+  </span><br/>
   <strong>Decode the world, daily.</strong>
 </p>
 
 
-## 🚀 How to Get Started
+## 🚀 Getting Started
 
-1. **Explore Our Repositories**: Dive into our projects and find one that excites you.
-2. **Join the Community**: Participate in discussions and share your ideas.
-3. **Contribute**: Check out our contribution guidelines and start making an impact.
+1. **Discover Our Repositories**: Explore our diverse projects and find one that sparks your interest.
+2. **Become Part of the Community**: Join discussions, share your insights, and connect with like-minded individuals.
+3. **Make an Impact**: Review our contribution guidelines and start contributing to the projects that excite you.
 
----
+## 💬 Engage with Us
 
-## 💬 Join the Conversation
+We value community collaboration. Share your thoughts, ask questions, and engage with others in our [Discussions](https://github.com/Daily-Decode/.github/discussions).
 
-We believe in the power of community. Share your thoughts, ask questions, and collaborate with others in our [Discussions](https://github.com/Daily-Decode/.github/discussions).
+## 🛠️ Dive Deeper
 
----
-
-## 🛠️ Explore More
-
-Check out our:
+Explore our resources:
 - [Project Directory](https://github.com/orgs/Daily-Decode/repositories)
 - [Wiki](https://github.com/Daily-Decode/.github/wiki)
 - [Contribution Guide](../CONTRIBUTING.md)
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #42aaff, #ff7f50);">
 
-<p align="center">
+<p align="center" style="background: linear-gradient(to right, #42aaff, #ff7f50); -webkit-background-clip: text; color: transparent;">
   <strong>Happy Decoding!</strong>
 </p>

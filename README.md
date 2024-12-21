@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Daily Decode Logo" width="150">
+  <img src="./images/logo_without_bg.png" alt="Daily Decode Logo" width="66">
 </p>
 
 <p align="center">
@@ -14,8 +14,9 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/Daily-Decode/.github?style=for-the-badge" alt="Custom License"></a>
 </p>
 
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #42aaff, #ff7f50);">
 
-<p align="center">
+<p align="center" style="background: linear-gradient(to right, #42aaff, #ff7f50); -webkit-background-clip: text; color: transparent;">
   <strong>Happy Decoding!</strong>
 </p>
+
